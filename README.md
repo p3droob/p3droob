@@ -13,14 +13,8 @@
 <div align="center">
 <br>
 <img src="https://github.com/p3droob/Snowbase/blob/main/img/snowbase-logo.png?raw=true"
-alt="Snowbase logo"
-style="
-width: 200px;
-height: 200px;
-border-radius: 50%;
-border: 4px solid #e7e9eb;
-object-fit: cover;
-" />
+width="200"
+style="border-radius:50%; border:4px solid #e7e9eb; object-fit:cover;" />
 <p>A lightweight file-based database for Node.js</p>
 <a href="https://www.npmjs.com/package/snowbase">
     <img src="https://img.shields.io/npm/v/snowbase?color=blue" alt="Current version"/>
