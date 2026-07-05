@@ -12,7 +12,10 @@
 # ❄️Snowbase
 <div align="center">
 <br>
-<img src="https://github.com/p3droob/Snowbase/blob/main/img/snowbase-logo.png?raw=true" alt="Snowbase logo" width="200" height="200" style="border-radius:35%;border: 4px solid #e7e9ebff;"/>
+<img src="https://github.com/p3droob/Snowbase/blob/main/img/snowbase-logo.png?raw=true"
+width="200"
+height="200"
+style="border-radius: 50%; border: 3px solid #e7e9eb;" />
 <p>A lightweight file-based database for Node.js</p>
 <a href="https://www.npmjs.com/package/snowbase">
     <img src="https://img.shields.io/npm/v/snowbase?color=blue" alt="Current version"/>
