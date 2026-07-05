@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/npm/d/snowbase" height="30">
+  <img src="https://img.shields.io/npm/dt/snowbase" height="30">
   <img src="https://img.shields.io/npm/v/snowbase" height="30">
 </p>
