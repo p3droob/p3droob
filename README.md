@@ -17,11 +17,6 @@ style="border-radius:35%;border: 4px solid #e7e9ebff;"/>
 <a href="https://www.npmjs.com/package/snowbase">
     <img src="https://img.shields.io/npm/v/snowbase?color=blue" alt="Current version"/>
     </a>
-    <a href="https://www.npmjs.com/package/snowbase">
-    <img
-    src="https://packagephobia.com/badge?p=snowbase"
-    alt="install size">
-    </a>
 <a href="https://www.npmjs.com/package/snowbase">
     <img src="https://img.shields.io/npm/dt/snowbase?color=darkcyan" alt="npm downloads"/>
 </a>
