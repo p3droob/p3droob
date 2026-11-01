@@ -1,8 +1,5 @@
 - 👋 Olá, sou o Pedro
-- 👀 zoinho
 - ❄️ <b>[Snowbase](https://www.npmjs.com/package/snowbase)</b> developer
-
-![Discord](https://discord.c99.nl/widget/theme-2/925087735616778250.png)
 
 # My Technologies and Tools
 
@@ -12,7 +9,7 @@
 # ❄️Snowbase
 <div align="center">
 <br>
-<img src="./img/snowbase-logo.png" 
+<img src="https://github.com/p3droob/Snowbase/blob/main/img/snowbase-logo.png" 
 width="200"
 height="200"
 style="border-radius:35%;border: 4px solid #e7e9ebff;"/>
@@ -22,7 +19,7 @@ style="border-radius:35%;border: 4px solid #e7e9ebff;"/>
     </a>
     <a href="https://www.npmjs.com/package/snowbase">
     <img
-    src="https://packagephobia.com/badge?p=snowbase@6.0.0"
+    src="https://packagephobia.com/badge?p=snowbase"
     alt="install size">
     </a>
 <a href="https://www.npmjs.com/package/snowbase">
